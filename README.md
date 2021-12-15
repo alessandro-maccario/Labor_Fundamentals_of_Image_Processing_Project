@@ -1,2 +1,2 @@
-# Labor_Fundamentals_of_Image_Processing_Project
+# Labor Fundamentals of Image Processing Project
 An OpenCV and Python based document scanner.
