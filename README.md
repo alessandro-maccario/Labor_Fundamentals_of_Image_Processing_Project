@@ -4,4 +4,4 @@
 
 
 # Labor Fundamentals of Image Processing Project
-An OpenCV and Python based document scanner for **Edge detection** for the final project of _Labor "Fundamental of Image Processing" course at the University of Klagenfurt, January 2022.
+An OpenCV and Python based document scanner for **Edge detection** for the final project of _Labor "Fundamental of Image Processing" course, at the University of Klagenfurt, January 2022.
